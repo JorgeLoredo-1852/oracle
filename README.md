@@ -1,1 +1,1 @@
-# oracle
+Used with whitelist.sol
